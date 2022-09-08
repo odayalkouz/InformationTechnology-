@@ -1,0 +1,141 @@
+
+{
+  "main": {
+    "heading": "The pioneers of digital transformation <br/> Training sector",
+    "location": "Riyadh, Saudi Arabia"
+  },
+  "actions": {
+    "joinUs": "Join us",
+    "downloadTheFile": "Download the file"
+  },
+  "nav": {
+    "whoWeAre": "About us",
+    "ourServices": "Services",
+    "ourSolutions": "Our Solutions",
+    "ourClients": "Clients",
+    "ourReports": "Reports"
+  },
+  "whoWeAre": {
+    "heading": "About us",
+    "text": "Technical expertise.. Passion for training.. Unique management skills.. Three factors converged to be produced by Sajil IT platform company, an entity that is expanding at a steady pace with the aim of enriching the Saudi training sector with the latest effective digital solutions by providing digital platforms covering all aspects of the trainee's journey, from registration to evaluation, to all steps of the traditional training journey."
+  },
+  "vision": {
+    "heading": "Vision",
+    "text": "To be the first and most effective destination in implementing digital transformation projects in training sector within Saudi Arabia"
+  },
+  "message": {
+    "heading": "Mission",
+    "text": "Provide the latest innovative and customized digital solutions to our clients by developing training services that aim to increase the digital experience of the organization, coach and trainee"
+  },
+  "values": {
+    "heading": "Values",
+    "list": [
+      {
+        "heading": "Innovation",
+        "text": "In each step of planning, design and implementation"
+      },
+      {
+        "heading": "Professionalism",
+        "text": "In all our practices with relevant institutions and individuals"
+      },
+      {
+        "heading": "Integrity",
+        "text": "In all our internal and external business"
+      },
+      {
+        "heading": "Responsibility",
+        "text": "To stakeholders to preserve their rights and to abide by their promises"
+      }
+    ]
+  },
+  "ourServices": {
+    "heading": "Our services",
+    "list": [
+      {
+        "heading": "Integrated Training Platform"
+      },
+      {
+        "heading": "Interactive E-content"
+      },
+      {
+        "heading": "Technical support"
+      },
+      {
+        "heading": "Virtual classes"
+      },
+      {
+        "heading": "E-payment and booking management system"
+      }
+    ]
+  },
+  "support": {
+    "heading": "Entities we support their digital transformation",
+    "list": [
+      {
+        "heading": "Government and semi-government agencies",
+        "text": "Through a comprehensive digital transformation that contributes to improving the quality of delivery of their services to beneficiaries, such as \"SASL\""
+      },
+      {
+        "heading": "Educational institutions",
+        "text": "By integrating digital solutions with traditional practices, contributing to their revenue growth and delivering a distinctive user experience, such as \"Business Noura\""
+      },
+      {
+        "heading": "Training institutions in quality specialties",
+        "text": "By providing a specialized training platform for professional trainers like \"Tadarab Platform \""
+      }
+    ]
+  },
+  "ourSolutions":{
+    "heading": "Our solutions",
+    "list": [
+      {
+        "heading": "Tadarab Platform",
+        "text": "A training platform that provides digital empowerment mechanisms for professional trainers, which includes providing a complete digital training journey from booking to evaluating training performance and its outputs by trainers and trainees, which has succeeded in attracting some of the largest training institutions in the Kingdom to join the platform"
+      },
+      {
+        "heading": "SASL",
+        "text": "A government platform that aims to ensure a minimum level of knowledge of legal regulations and principles for legal practitioners in various sectors and raise the level of practicing the legal profession and legal advice in accordance with the best international practices in a manner befitting the status of the Kingdom"
+      },
+      {
+        "heading": "Business Noura Platform",
+        "text": "An educational platform that aims to provide a different educational experience in entrepreneurship, targeting entrepreneurs and project owners. It also provides various educational services and tools that help in building various skills required in the field of business"
+      }
+    ]
+  },
+  "ourClients": {
+    "heading": "Our clients"
+  },
+  "ourTeams": {
+    "heading": "Our team",
+    "list": [
+      {
+        "name": "Abdullah Mashari",
+        "caption": "Founder and Chairman of the Board of Directors"
+      },
+      {
+        "name": "Abdulaziz Aladwani",
+        "caption": "Co-Founder and Board Member"
+      },
+      {
+        "name": "Abdullah Alhaqbani",
+        "caption": "Co-Founder and Board Member"
+      },
+      {
+        "name": "Zoha Al-Snaidi",
+        "caption": "CEO"
+      },
+      {
+        "name": "Salih Uwaishiq",
+        "caption": "CEO Advisor"
+      },
+      {
+        "name": "Alexander Schmid",
+        "caption": "Technical Partner and CEO of courseticket"
+      }
+    ]
+  },
+  "ourReports": {
+    "heading": "Reports"
+  }
+}
+

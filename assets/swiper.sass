@@ -1,0 +1,25 @@
+.swiper-container
+  padding-bottom: 3rem
+  &:hover
+    .swiper-button-prev,
+    .swiper-button-next
+      &:not(.swiper-button-disabled)
+        opacity: 1
+      &.swiper-button-disabled
+        opacity: .4
+  .swiper-button-prev,
+  .swiper-button-next
+    opacity: 0
+    &.swiper-button-disabled
+      opacity: 0
+    transition: opacity $default-transition-time $default-transition-function
+    &.swiper-button-disabled
+      pointer-events: none
+
+.swiper-container-horizontal > .swiper-pagination-bullets
+  bottom: 0
+
+.swiper-pagination-bullet
+  width: 2.5rem
+  height: .75rem
+  border-radius: .75rem

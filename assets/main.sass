@@ -1,0 +1,105 @@
+html
+  scroll-behavior: smooth
+
+*
+  --swiper-theme-color: #0198C6
+
+.container
+  max-width: $container-width !important
+  padding: 0 2.5rem !important
+
+.section
+  width: 100%
+  padding: 5rem 0
+  overflow: hidden
+  &.primary
+    background-color: $primary
+    .paragraph
+      color: $background
+  &.secondary
+    background-color: $secondary
+    box-shadow: 0 12px 20px 2px rgba(0, 0, 0, 0.12)
+
+.hero
+  min-height: 37.5rem
+  padding-top: 13.75rem
+  padding-bottom: 10rem
+  color: $background
+  background-color: $primary
+  background-image: linear-gradient(to bottom, transparent, $primary), url('/images/hero-bg.jpg')
+  background-size:  100% 17rem, cover
+  background-position: left bottom, center center
+  background-blend-mode: normal
+
+.v-btn
+  height: unset !important
+  padding: .9em 2em 0.7em !important
+  font-weight: 900 !important
+  font-size: 1.5rem !important
+  line-height: 1em !important
+  *
+    line-height: inherit !important
+    white-space: normal !important
+  &.secondary
+    color: $primary !important
+  border-radius: .4em !important
+  &.v-size--x-large
+    font-size: 2.25rem !important
+
+ul
+  list-style: none
+
+.v-tabs--transparent
+  .v-tabs-bar
+    background-color: transparent !important
+    color: inherit !important
+
+.v-tabs--vertical > .v-tabs-bar
+  .v-tabs-bar__content
+    max-width: 100%
+  .v-tab
+    height: unset !important
+
+  .v-tab
+    white-space: normal !important
+    text-align: unset !important
+    &:not(.v-tab--active)
+      color: rgba(255, 255, 255, 0.8) !important
+    &.v-tab--active
+      color: $background !important
+
+.v-window-item
+  height: 100%
+
+.v-toolbar__content
+  padding: 0 !important
+
+.swiper-pagination
+  bottom: 0.625rem
+  left: 0
+  width: 100%
+.swiper-pagination-bullet
+  margin: 0.25rem
+@media only screen and (max-width: $md)
+  #app .our-services
+    background-color: $accent !important
+    overflow: hidden
+    .heading--lg,
+    .heading--sm
+      color: $background !important
+
+@media screen and (max-width: $sm)
+  .section
+    padding: 3.5rem 0
+  .container
+    padding: 0 1.5rem !important
+  .hero
+    min-height: unset
+    padding-top: 12rem
+    padding-bottom: 6rem
+    color: $background
+    background-color: $primary
+    background-image: linear-gradient(to bottom, transparent, $primary), url('/images/hero-bg.jpg')
+    background-size:  100% 17rem, cover
+    background-position: left bottom, center center
+    background-blend-mode: normal
