@@ -15,7 +15,7 @@ module.exports = {
     }
   },
   contact: {
-    email: 'service@InformationTechnology.com',
+    email: 'service@sajil.org',
     phone: '+966551113722'
   },
   media: {
