@@ -10,10 +10,16 @@
       app-nav.me-auto(
         :isPageScrolled="isPageScrolled"
       )
-      logo(
-        :size="logoSize"
-        :isWhite="!isPageScrolled"
+      v-img(
+        max-height="150"
+        max-width="95"
+        src="/logo1.png"
       )
+        
+      //- logo(
+      //-   :size="logoSize"
+      //-   :isWhite="!isPageScrolled"
+      //- )
 
 </template>
 

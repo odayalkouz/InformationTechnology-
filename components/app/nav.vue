@@ -93,12 +93,12 @@ export default {
   .v-list-item
     flex-basis: auto
   &__link
-    color: $background
+    color: #00c0cd !important
     background: transparent !important
     box-shadow: none !important
     text-decoration: none
-    font-weight: bold
-    font-size: 1.25rem !important
+    font-weight: normal
+    font-size: 1rem !important
     white-space: nowrap
     transition: all $default-transition-time $default-transition-function
     &::before,
