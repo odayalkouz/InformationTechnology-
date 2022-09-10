@@ -53,9 +53,9 @@
       .swiper-pagination(
         v-if="isSliderInitialized"
       )
-    hubspot-form-btn.mt-6.mx-auto(
-      v-if="isSliderInitialized"
-    )
+    //- hubspot-form-btn.mt-6.mx-auto(
+    //-   v-if="isSliderInitialized"
+    //- )
 </template>
 
 <script>

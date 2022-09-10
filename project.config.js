@@ -9,23 +9,23 @@ module.exports = {
   },
   themes: {
     light: {
-      primary: '#2B3988',
-      accent: '#0198C6',
+      primary: '#022930',
+      accent: '#022930',
       secondary: '#F5F5F5'
     }
   },
   contact: {
-    email: 'service@sajil.org',
-    phone: '+966551113722'
+    email: 'service@company.org',
+    phone: '+962 7 9116 9497'
   },
   media: {
-    linkedin: 'https://www.linkedin.com/company/sajilco/',
-    twitter: 'https://twitter.com/sajilPlatform'
+    linkedin: '',
+    twitter: ''
   },
   metaContent: {
-    text: 'رواد التحول الرقمي في مجال التدريب',
+    text: 'خدمات التحول الرقمي بأحترافيه عالية',
     image: '/logo.jpg',
-    url: 'https://www.sajil.org',
-    keywords: 'رواد التحول الرقمي ,قطاع التدريب ,التحول الرقمي بقطاع التدريب بالمملكة العربية السعودية, التحول الرقمي بقطاع, الحلول الرقمية, خدمات التدريب, منصة تدريبية متكاملة, محتوى إلكتروني تفاعلي, فصول افتراضية, نظام إدارة الحجوزات والدفع الإلكتروني'
+    url: '/',
+    keywords: 'تصميم مواقع الكترونيه,طبيقات الهواتف الذكية,برمجة متاجر الكترونية,برامج ادارة موارد الشركات,دومين واستضافة ,الرسائل الدعائية,تسويق عبر مواقع التواصل الاجتماعي ,تحسين الظهور على جوجل,تصميم علامات تجارية'
   }
 }

@@ -1,5 +1,5 @@
 <template lang="pug">
-  .homepage
+ .homepage
     app-section.hero(
       :wideHeading="true"
     )
@@ -8,30 +8,29 @@
           class=""
           v-html="$t('main.heading')"
         )
-
     app-section.who-we-are.primary#who-we-are
       template(#heading)
-        h2.heading--lg
+        h2.heading--lg.white--text
           | {{ $t('whoWeAre.heading') }}
       template
         p.paragraph
-          | {{ $t('whoWeAre.text') }}
+         | {{ $t('whoWeAre.text') }}
 
-    app-section.vision
-      template(#heading)
-        h2.heading--lg
-          | {{ $t('vision.heading') }}
-      template
-        p.paragraph
-          | {{ $t('vision.text') }}
+    //- app-section.vision
+    //-   template(#heading)
+    //-     h2.heading--lg
+    //-       | {{ $t('vision.heading') }}
+    //-   template
+    //-     p.paragraph
+    //-       | {{ $t('vision.text') }}
 
-    app-section.message.secondary
-      template(#heading)
-        h2.heading--lg
-          | {{ $t('message.heading') }}
-      template
-        p.paragraph
-          | {{ $t('message.text') }}
+    //- app-section.message.secondary
+    //-   template(#heading)
+    //-     h2.heading--lg
+    //-       | {{ $t('message.heading') }}
+    //-   template
+    //-     p.paragraph
+    //-       | {{ $t('message.text') }}
 
     app-section.values(
       :wideContent="true"

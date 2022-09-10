@@ -71,10 +71,6 @@ export default {
         {
           text: 'nav.ourClients',
           to: '#our-clients'
-        },
-        {
-          text: 'nav.ourReports',
-          href: 'https://www.tadarab.org/ar/reports'
         }
       ]
     }

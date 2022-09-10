@@ -2,7 +2,7 @@
   v-app-bar.app-header(
     app
     :flat="!isPageScrolled"
-    :color="isPageScrolled ? '#fff' : 'transparent'"
+    :color="isPageScrolled ? '#fff' : '#fff'"
     height="auto"
     :class="{'app-header--scrolled': isPageScrolled}"
   )

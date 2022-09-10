@@ -82,28 +82,28 @@ module.exports = {
   team: {
     images: [
       {
-        imageSrc: 'https://d311qk7d4dpm8d.cloudfront.net/wp-content/uploads/2018/11/29155359/team_abdullah.jpg',
-        alt: 'Abdullah'
+        imageSrc: 'https://www.w3schools.com/howto/img_avatar.png',
+        alt: 'member'
       },
       {
-        imageSrc: 'https://d311qk7d4dpm8d.cloudfront.net/wp-content/uploads/2018/11/29155400/team_abdulaziz.jpg',
-        alt: 'Abdulaziz'
+        imageSrc: 'https://www.w3schools.com/howto/img_avatar.png',
+        alt: 'member'
       },
       {
-        imageSrc: 'https://d311qk7d4dpm8d.cloudfront.net/wp-content/uploads/2018/11/29155400/team_alhakbani.jpg',
-        alt: 'Alhakbani'
+        imageSrc: 'https://www.w3schools.com/howto/img_avatar.png',
+        alt: 'member'
       },
       {
-        imageSrc: '',
-        alt: ''
+        imageSrc: 'https://www.w3schools.com/howto/img_avatar.png',
+        alt: 'member'
       },
       {
-        imageSrc: 'https://d311qk7d4dpm8d.cloudfront.net/wp-content/uploads/2018/11/29155401/team_salih1.jpg',
-        alt: 'Salih1'
+        imageSrc: 'https://www.w3schools.com/howto/img_avatar.png',
+        alt: 'member'
       },
       {
-        imageSrc: 'https://d311qk7d4dpm8d.cloudfront.net/wp-content/uploads/2018/11/29155401/team_alexander.jpg',
-        alt: 'Alexander'
+        imageSrc: 'https://www.w3schools.com/howto/img_avatar.png',
+        alt: 'member'
       }
     ]
   }
