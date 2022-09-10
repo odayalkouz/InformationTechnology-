@@ -32,7 +32,7 @@
           )
             h3.heading--xs {{ tab.heading }}
 
-        hubspot-form-btn
+        //- hubspot-form-btn
 
       .services__slides(
         :class="{ 'swiper-wrapper' : isSliderInitialized}"

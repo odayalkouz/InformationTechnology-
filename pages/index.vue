@@ -32,7 +32,7 @@
     //-     p.paragraph
     //-       | {{ $t('message.text') }}
 
-    app-section.values(
+    app-section.values#values(
       :wideContent="true"
     )
       template(#heading)

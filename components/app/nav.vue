@@ -61,6 +61,10 @@ export default {
           to: '#who-we-are'
         },
         {
+          text: 'values.heading',
+          to: '#values'
+        },
+        {
           text: 'nav.ourServices',
           to: '#our-services'
         },
@@ -71,6 +75,10 @@ export default {
         {
           text: 'nav.ourClients',
           to: '#our-clients'
+        },
+        {
+          text: 'ourTeams.heading',
+          to: '#our-team'
         }
       ]
     }

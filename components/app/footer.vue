@@ -4,9 +4,11 @@
       nuxt-link.app-footer__logo-wrp(
         to="/"
       )
-       app-logo(
-        :size="$vuetify.breakpoint.xs ? 80 : 100"
-       )
+        v-img(
+          max-height="150"
+          max-width="95"
+          src="/logo1.png"
+        )
       .app-footer__contact-data
         a.app-footer__link.heading--sm(
           :href="`tel:${phone}`"
