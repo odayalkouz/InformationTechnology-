@@ -7,7 +7,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    titleTemplate: '%s - ' + process.env.npm_package_name,
+    titleTemplate: 'ابتكار مستمر لتكنولوجيا المعلومات',
     /*
     ** title: process.env.npm_package_name || '',
     */
