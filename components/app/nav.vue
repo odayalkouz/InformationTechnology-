@@ -97,7 +97,7 @@ export default {
   .v-list-item
     flex-basis: auto
   &__link
-    color: #00c0cd !important
+    color: #00c0cd 
     background: transparent !important
     box-shadow: none !important
     text-decoration: none
